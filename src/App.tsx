@@ -10,10 +10,9 @@ function App() {
       <section id="center">
         <div className="hero">
           <Header></Header>
-
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Career Journey</h1>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
